@@ -1,0 +1,1 @@
+# synthetix-lottery-dapp
